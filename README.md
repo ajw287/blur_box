@@ -5,6 +5,7 @@
 A *simple* blurred window to hide URIs, usernames etc while recording video or screencasting. Note the blurred
 screen does not update automatically, when using "Reload" the screen is displayed
 momentarily.  'Blur box' can be dragged around or set to 'quick kill' mode.
+
 ```
 options:
   -h, --help       show this help message and exit
