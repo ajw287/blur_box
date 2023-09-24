@@ -8,7 +8,7 @@ screen does not update automatically, right-click and select "Reload" to refresh
 momentarily if you do this.  With left-click 'Blur box' can be dragged around or if set to 'quick kill' mode this will remove the box.
 
 <p></p>
-*WARNING* 'just run this code that captures your screen, to cover your super-secure information'.  The security implications of this should fill you with fear!  Please do not use this code unless you can read python and have checked the code doesn't do anything bad (seriosly, its like 100 lines)!  Even then, I can't vouch for the libraries used (pyscreenshot, etc) so there could be security vulnerabilities.  Honestly, people who publish code like this!  On the other hand, if you know what you are doing, this is some code that I used as a quick way to hide some info in a screen video. Hope it helps...
+*WARNING* 'just run this code that captures your screen, to cover your super-secure information'.  The security implications of this should fill you with fear!  Please do not use this code unless you can read python and have checked the code doesn't do anything bad (seriosly, its like 150 lines)!  Even then, I can't vouch for the libraries used (pyscreenshot, etc) so there could be security vulnerabilities.  Honestly, people who publish code like this!  On the other hand, if you know what you are doing, this is some code that I used as a quick way to hide some info in a screen video. Hope it helps...
 <p></p>
 
 ```
