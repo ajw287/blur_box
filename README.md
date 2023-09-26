@@ -4,7 +4,7 @@
    <img src="./docs/images/blurred_username.png" alt="blurred screen image" width="300" title="blurred screen image">
 </p>
 A *simple* blurred window to hide URIs, usernames etc while recording video or screencasting. Note the blurred
-screen does not update automatically, right-click and select "Reload" to refresh - N.B. the screen is displayed
+screen does not update automatically, right-click and select "Reload" to refresh - *BEWARE* the screen is displayed
 momentarily if you do this.  With left-click 'Blur box' can be dragged around or if set to 'quick kill' mode this will remove the box.
 
 <p></p>
